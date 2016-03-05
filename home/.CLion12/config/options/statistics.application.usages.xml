@@ -1,0 +1,128 @@
+<application>
+  <component name="StatisticsApplicationUsages">
+    <group name="svn working copy format">
+      <project id="CodeGen" values="1.8" collectionTime="1448563692765" />
+      <project id="llvm" values="1.8" collectionTime="1448072493753" />
+    </group>
+    <group name="javaScript Scope Usages">
+      <project id="cachetest" values="Project,Project" collectionTime="1447283841075" />
+      <project id="CodeGen" values="Project,Project" collectionTime="1448563692765" />
+      <project id="DFile" values="Project,Project" collectionTime="1447285092724" />
+      <project id="llvm" values="Project,Project" collectionTime="1448072493835" />
+      <project id="testproj" values="Project,Project" collectionTime="1457115123759" />
+      <project id="CS426" values="Project,Project" collectionTime="1454278459994" />
+      <project id=".clion11" values="Project,Project" collectionTime="1445401412753" />
+      <project id="mp4" values="Project,Project" collectionTime="1456518698031" />
+      <project id="mp3" values="Project,Project" collectionTime="1447996389324" />
+      <project id="mp2" values="Project,Project" collectionTime="1445403937563" />
+      <project id="mp1" values="Project,Project" collectionTime="1456357070562" />
+      <project id="scratchpad" values="Project,Project" collectionTime="1457041236565" />
+      <project id="cs425-mp4" values="Project,Project" collectionTime="1456518163668" />
+      <project id="cs425-mp2" values="Project,Project" collectionTime="1445402749012" />
+    </group>
+    <group name="JavaScript versions">
+      <project id="cachetest" values="DEFAULT" collectionTime="1447283841075" />
+      <project id="CodeGen" values="DEFAULT" collectionTime="1448563692765" />
+      <project id="DFile" values="DEFAULT" collectionTime="1447285092724" />
+      <project id="llvm" values="DEFAULT" collectionTime="1448072493835" />
+      <project id="testproj" values="ECMAScript 5.1" collectionTime="1457115123759" />
+      <project id="CS426" values="ECMAScript 5.1" collectionTime="1454278459994" />
+      <project id=".clion11" values="DEFAULT" collectionTime="1445401412753" />
+      <project id="mp4" values="ECMAScript 5.1" collectionTime="1456518698031" />
+      <project id="mp3" values="DEFAULT" collectionTime="1447996389324" />
+      <project id="mp2" values="DEFAULT" collectionTime="1445403937563" />
+      <project id="mp1" values="ECMAScript 5.1" collectionTime="1456357070562" />
+      <project id="scratchpad" values="ECMAScript 5.1" collectionTime="1457041236565" />
+      <project id="cs425-mp4" values="ECMAScript 5.1" collectionTime="1456518163668" />
+      <project id="cs425-mp2" values="DEFAULT" collectionTime="1445402749012" />
+    </group>
+    <group name="module type">
+      <project id="cachetest" values="CPP_MODULE" collectionTime="1447283840664" />
+      <project id="CodeGen" values="CPP_MODULE" collectionTime="1448563692631" />
+      <project id="DFile" values="CPP_MODULE" collectionTime="1447285092677" />
+      <project id="llvm" values="CPP_MODULE" collectionTime="1448072493275" />
+      <project id="testproj" values="CPP_MODULE" collectionTime="1457115123141" />
+      <project id="CS426" values="CPP_MODULE" collectionTime="1454278459914" />
+      <project id=".clion11" values="CPP_MODULE" collectionTime="1445401412619" />
+      <project id="mp4" values="CPP_MODULE" collectionTime="1456518697928" />
+      <project id="mp3" values="CPP_MODULE" collectionTime="1447996388562" />
+      <project id="mp2" values="CPP_MODULE" collectionTime="1445403937539" />
+      <project id="mp1" values="CPP_MODULE" collectionTime="1456357069905" />
+      <project id="scratchpad" values="CPP_MODULE" collectionTime="1457041236358" />
+      <project id="cs425-mp4" values="CPP_MODULE" collectionTime="1456518161388" />
+      <project id="cs425-mp2" values="CPP_MODULE" collectionTime="1445402748586" />
+    </group>
+    <group name="vcs">
+      <project id="cs425-mp4" values="Git" collectionTime="1456518161388" />
+      <project id="cs425-mp2" values="Git" collectionTime="1445402748585" />
+      <project id="CodeGen" values="svn" collectionTime="1448563692631" />
+      <project id="DFile" values="Git" collectionTime="1447285092677" />
+      <project id="llvm" values="svn" collectionTime="1448072493263" />
+      <project id="cachetest" values="Git" collectionTime="1447283840664" />
+    </group>
+    <group name="run-configuration-type">
+      <project id="mp3" values="CMakeRunConfiguration" collectionTime="1447996388562" />
+      <project id="mp2" values="CMakeRunConfiguration" collectionTime="1445403937539" />
+      <project id="mp1" values="CMakeRunConfiguration" collectionTime="1456357069906" />
+      <project id="testproj" values="CMakeRunConfiguration" collectionTime="1457115123141" />
+      <project id="cs425-mp4" values="CMakeRunConfiguration" collectionTime="1456518161389" />
+      <project id="cs425-mp2" values="CMakeRunConfiguration" collectionTime="1445402748586" />
+      <project id="DFile" values="CMakeRunConfiguration" collectionTime="1447285092677" />
+      <project id="llvm" values="CMakeRunConfiguration" collectionTime="1448072493278" />
+      <project id="cachetest" values="CMakeRunConfiguration" collectionTime="1447283840664" />
+      <project id="scratchpad" values="CMakeRunConfiguration" collectionTime="1457041236359" />
+      <project id="CS426" values="CMakeRunConfiguration" collectionTime="1454278459914" />
+      <project id="mp4" values="CMakeRunConfiguration" collectionTime="1456518697929" />
+    </group>
+    <group name="file-type">
+      <project id="cachetest" values="PLAIN_TEXT,Bash,UNKNOWN,CMakeLists.txt,ObjectiveC,XML,IDEA_MODULE" collectionTime="1447283840950" />
+      <project id="CodeGen" values="IDEA_MODULE,CMakeLists.txt,UNKNOWN,PLAIN_TEXT,ObjectiveC,XML" collectionTime="1448563692751" />
+      <project id="DFile" values="UNKNOWN,XML,ObjectiveC,CMakeLists.txt,Native,IDEA_MODULE,PLAIN_TEXT,Bash" collectionTime="1447285092722" />
+      <project id="llvm" values="Images,PLAIN_TEXT,CSS,HTML,JavaScript,YAML,JSON,XML,CMakeLists.txt,UNKNOWN,PATCH,ObjectiveC,IDEA_MODULE,Bash" collectionTime="1448072493491" />
+      <project id="testproj" values="XML,UNKNOWN,IDEA_MODULE,CMakeLists.txt,ObjectiveC,PLAIN_TEXT" collectionTime="1457115123319" />
+      <project id="CS426" values="PLAIN_TEXT,XML,UNKNOWN,CMakeLists.txt,ObjectiveC,IDEA_MODULE" collectionTime="1454278459991" />
+      <project id=".clion11" values="ARCHIVE,XML,UNKNOWN,PLAIN_TEXT,CMakeLists.txt,ObjectiveC" collectionTime="1445401412632" />
+      <project id="mp4" values="XML,PLAIN_TEXT,UNKNOWN,CMakeLists.txt,ObjectiveC,IDEA_MODULE" collectionTime="1456518698029" />
+      <project id="mp3" values="IDEA_MODULE,UNKNOWN,CMakeLists.txt,XML,Bash,PLAIN_TEXT,ObjectiveC,PATCH" collectionTime="1447996388778" />
+      <project id="mp2" values="PATCH,IDEA_MODULE,XML,UNKNOWN,PLAIN_TEXT,ObjectiveC,CMakeLists.txt" collectionTime="1445403937562" />
+      <project id="mp1" values="UNKNOWN,IDEA_MODULE,PLAIN_TEXT,CMakeLists.txt,XML,ObjectiveC" collectionTime="1456357070061" />
+      <project id="scratchpad" values="PLAIN_TEXT,IDEA_MODULE,UNKNOWN,CMakeLists.txt,ObjectiveC,XML" collectionTime="1457041236464" />
+      <project id="cs425-mp4" values="ObjectiveC,XML,IDEA_MODULE,PLAIN_TEXT,UNKNOWN,Native,CMakeLists.txt" collectionTime="1456518161524" />
+      <project id="cs425-mp2" values="UNKNOWN,CMakeLists.txt,IDEA_MODULE,XML,Native,PLAIN_TEXT,ObjectiveC" collectionTime="1445402748652" />
+    </group>
+    <group name="VCS Log">
+      <project id="cachetest" values="vcs.log.commit.count=28,vcs.log.git.root.count" collectionTime="1447283840993" />
+    </group>
+    <group name="Git">
+      <project id="scratchpad" values="config.warn.about.detached.enabled,config.push.autoupdate.disabled,config.warn.about.crlf.enabled,config.repo.sync.NOT_DECIDED,config.update.type.BRANCH_DEFAULT,config.ssh.enabled,config.save.policy.STASH,config.cherry-pick.autocommit.disabled,config.push.update.all.roots.enabled,config.force.push.enabled" collectionTime="1457041236470" />
+      <project id="mp1" values="config.ssh.enabled,config.update.type.BRANCH_DEFAULT,config.force.push.enabled,config.warn.about.crlf.enabled,config.cherry-pick.autocommit.disabled,config.save.policy.STASH,config.push.autoupdate.disabled,config.push.update.all.roots.enabled,config.warn.about.detached.enabled,config.repo.sync.NOT_DECIDED" collectionTime="1456357070096" />
+      <project id="testproj" values="config.push.update.all.roots.enabled,config.force.push.enabled,config.push.autoupdate.disabled,config.warn.about.crlf.enabled,config.cherry-pick.autocommit.disabled,config.save.policy.STASH,config.repo.sync.NOT_DECIDED,config.ssh.enabled,config.warn.about.detached.enabled,config.update.type.BRANCH_DEFAULT" collectionTime="1457115123332" />
+      <project id="CS426" values="config.cherry-pick.autocommit.disabled,config.save.policy.STASH,config.repo.sync.NOT_DECIDED,config.force.push.enabled,config.warn.about.crlf.enabled,config.ssh.enabled,config.push.autoupdate.disabled,config.push.update.all.roots.enabled,config.update.type.BRANCH_DEFAULT,config.warn.about.detached.enabled" collectionTime="1454278459992" />
+      <project id="cs425-mp4" values="config.repo.sync.NOT_DECIDED,config.update.type.BRANCH_DEFAULT,data.remote.branches.count.2+,data.remotes.in.project.1,data.local.branches.count.2+,config.warn.about.crlf.enabled,config.warn.about.detached.enabled,config.save.policy.STASH,config.push.autoupdate.disabled,config.force.push.enabled,config.cherry-pick.autocommit.disabled,config.ssh.enabled,config.push.update.all.roots.enabled" collectionTime="1456518161558" />
+      <project id="mp4" values="config.update.type.BRANCH_DEFAULT,config.warn.about.crlf.enabled,config.repo.sync.NOT_DECIDED,config.warn.about.detached.enabled,config.ssh.enabled,config.push.autoupdate.disabled,config.cherry-pick.autocommit.disabled,config.force.push.enabled,config.save.policy.STASH,config.push.update.all.roots.enabled" collectionTime="1456518698030" />
+    </group>
+  </component>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="CreateFile.CreateFileAction" count="9" />
+      <entry feature="cidr.completion.qualified" count="110" />
+      <entry feature="cidr.completion.qualified.changeQualifyingToken.fromDot" count="79" />
+      <entry feature="execute.CMakeRunConfiguration.Debug" count="6" />
+      <entry feature="execute.CMakeRunConfiguration.Run" count="37" />
+      <entry feature="ide.help.ideaInterface.editor" count="10" />
+      <entry feature="ide.help.reference.dialogs.diff.file" count="3" />
+      <entry feature="ide.settings.Appearance" count="1" />
+      <entry feature="ide.settings.Code_Style" count="2" />
+      <entry feature="ide.settings.Keymap" count="1" />
+      <entry feature="ide.settings.Live_Templates" count="3" />
+      <entry feature="ide.settings.Plugins" count="2" />
+      <entry feature="ide.settings.Toolchains" count="1" />
+      <entry feature="ide.settings.Vim_Emulation" count="1" />
+      <entry feature="ideaapp.started" count="83" />
+      <entry feature="terminal.linux" count="1" />
+      <entry feature="tips.of.the.day.next" count="1" />
+      <entry feature="welcome.screen.CreateCMakeProject" count="1" />
+      <entry feature="welcome.screen.OpenCPPProject" count="1" />
+    </counts>
+  </component>
+</application>

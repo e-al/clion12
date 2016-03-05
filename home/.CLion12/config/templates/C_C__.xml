@@ -1,0 +1,11 @@
+<templateSet group="C/C++">
+  <template name="impl" value="struct $PARENTCLASS$::Impl&#10;{&#10;    $PARENTCLASS$::Impl($PARENTCLASS$ *newParent)&#10;    : parent(newParent)&#10;    {&#10;        &#10;    }&#10;    &#10;    $PARENTCLASS$ *parent;&#10;}" description="Insert impl implementation" toReformat="false" toShortenFQNames="true">
+    <variable name="PARENTCLASS" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="cpp" value="true" />
+      <option name="OC_DECLARATION_CPP" value="true" />
+      <option name="OC_STATEMENT_CPP" value="true" />
+      <option name="OC_EXPRESSION_CPP" value="true" />
+    </context>
+  </template>
+</templateSet>

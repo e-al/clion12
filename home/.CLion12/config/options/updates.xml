@@ -1,0 +1,9 @@
+<application>
+  <component name="UpdatesConfigurable">
+    <knownUpdateChannels>
+      <item value="clion_12" />
+    </knownUpdateChannels>
+    <option name="LAST_TIME_CHECKED" value="1447178820566" />
+    <option name="LAST_BUILD_CHECKED" value="CL-141.2614" />
+  </component>
+</application>

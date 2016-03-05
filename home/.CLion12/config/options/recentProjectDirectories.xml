@@ -1,0 +1,98 @@
+<application>
+  <component name="RecentDirectoryProjectsManager">
+    <option name="recentPaths">
+      <list>
+        <option value="$USER_HOME$/Projects/C++/testproj" />
+        <option value="$USER_HOME$/Projects/C/scratchpad" />
+        <option value="$USER_HOME$/Projects/C++/UIUC/CS426/mp4" />
+        <option value="$USER_HOME$/Projects/C++/UIUC/CS425/cs425-mp4" />
+        <option value="$USER_HOME$/Projects/C++/UIUC/CS526/mp1" />
+        <option value="$USER_HOME$/Projects/C++/UIUC/CS426" />
+        <option value="$USER_HOME$/Projects/C++/llvm/lib/CodeGen" />
+        <option value="$USER_HOME$/Projects/C++/llvm" />
+        <option value="$USER_HOME$/University/Compilers/MPs/mp3" />
+        <option value="$USER_HOME$/Projects/C++/UIUC/CS425/cs425-mp3" />
+        <option value="$USER_HOME$/Projects/C/UIUC/Container Security/cachetest" />
+        <option value="$USER_HOME$/University/Compilers/MPs/mp2" />
+        <option value="$USER_HOME$/Projects/C++/UIUC/CS425/cs425-mp2" />
+      </list>
+    </option>
+    <option name="openPaths">
+      <list>
+        <option value="$USER_HOME$/Projects/C++/testproj" />
+      </list>
+    </option>
+    <option name="lastPath" value="$USER_HOME$/Projects/C++/testproj" />
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/Projects/C++/UIUC/CS425/cs425-mp4">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="CL-143.1186" />
+              <option name="productionCode" value="CL" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1456518082582" />
+              <option name="buildTimestamp" value="1451023200000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/C++/UIUC/CS426">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="CL-143.1186" />
+              <option name="productionCode" value="CL" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1454277858670" />
+              <option name="buildTimestamp" value="1451023200000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/C++/UIUC/CS426/mp4">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="CL-143.1186" />
+              <option name="productionCode" value="CL" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1456518164793" />
+              <option name="buildTimestamp" value="1451023200000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/C++/UIUC/CS526/mp1">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="CL-143.1186" />
+              <option name="productionCode" value="CL" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1456356957447" />
+              <option name="buildTimestamp" value="1451023200000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/C++/testproj">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="CL-143.1186" />
+              <option name="productionCode" value="CL" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1457103770389" />
+              <option name="buildTimestamp" value="1451023200000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/C/scratchpad">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="CL-143.1186" />
+              <option name="productionCode" value="CL" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1457103719683" />
+              <option name="buildTimestamp" value="1451023200000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="$USER_HOME$/Projects/C++" />
+  </component>
+</application>

@@ -1,0 +1,839 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/Projects/C/scratchpad/CMakeLists.txt" timestamp="1456899781441">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="3" column="49" />
+        <mark key="]" line="3" column="49" />
+        <mark key="." line="3" column="49" />
+        <mark key="^" line="3" column="48" />
+      </file>
+      <file name="$USER_HOME$/University/Compilers/MPs/mp3/test-rt/CMakeLists.txt" timestamp="1445625390667">
+        <mark key="[" line="14" column="5" />
+        <mark key="]" line="15" column="34" />
+        <mark key="." line="15" column="34" />
+        <mark key="^" line="15" column="34" />
+      </file>
+      <file name="$USER_HOME$/University/Compilers/MPs/mp3/src/coolrt.h" timestamp="1447089194769">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="17" column="8" />
+        <mark key="^" line="126" column="19" />
+        <mark key="." line="172" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/C++/UIUC/CS425/cs425-mp4/crane-core/src/node/TopologyNodeBase.h" timestamp="1449464116443">
+        <mark key="[" line="15" column="34" />
+        <mark key="]" line="15" column="39" />
+        <mark key="." line="15" column="39" />
+        <mark key="^" line="15" column="39" />
+      </file>
+      <file name="$USER_HOME$/Projects/C++/UIUC/CS425/cs425-mp4/user-code/WordCountTopology/SplitSentenceBolt.h" timestamp="1449465034335">
+        <mark key="[" line="13" column="40" />
+        <mark key="]" line="13" column="41" />
+        <mark key="." line="13" column="41" />
+        <mark key="^" line="13" column="38" />
+      </file>
+      <file name="$USER_HOME$/Projects/C++/UIUC/CS425/cs425-mp4/user-code/FilterTopology/FilterBolt.h" timestamp="1449494310872">
+        <mark key="'" line="19" column="0" />
+        <mark key="[" line="16" column="16" />
+        <mark key="]" line="16" column="16" />
+        <mark key="." line="16" column="16" />
+        <mark key="^" line="16" column="16" />
+      </file>
+      <file name="$USER_HOME$/Projects/C++/UIUC/CS425/cs425-mp4/user-code/WordCountTopology/PrinterBolt.h" timestamp="1449465009312">
+        <mark key="'" line="20" column="0" />
+        <mark key="[" line="14" column="40" />
+        <mark key="]" line="14" column="40" />
+        <mark key="." line="14" column="40" />
+        <mark key="^" line="14" column="40" />
+      </file>
+      <file name="/usr/include/llvm/Transforms/Utils/PromoteMemToReg.h" timestamp="1454287482271">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="45" column="51" />
+      </file>
+      <file name="/a.dummy" timestamp="1449494712187">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/usr/include/llvm/IR/Instruction.h" timestamp="1454285119539">
+        <mark key="'" line="232" column="6" />
+      </file>
+      <file name="$USER_HOME$/Projects/C++/UIUC/CS425/cs425-mp4/daemon/src/supervisor/Supervisor.h" timestamp="1449355889693">
+        <mark key="[" line="23" column="36" />
+        <mark key="]" line="23" column="36" />
+        <mark key="^" line="23" column="36" />
+        <mark key="." line="23" column="36" />
+      </file>
+      <file name="$USER_HOME$/Projects/C++/UIUC/CS425/cs425-mp4/CMakeLists.txt" timestamp="1449349033009">
+        <mark key="[" line="7" column="25" />
+      </file>
+      <file name="$USER_HOME$/Projects/C/UIUC/Container Security/cachetest/scripts/2_2core_separate_partition.sh" timestamp="1445965612021">
+        <mark key="[" line="9" column="47" />
+        <mark key="]" line="9" column="56" />
+        <mark key="." line="9" column="56" />
+        <mark key="^" line="9" column="56" />
+      </file>
+      <file name="$USER_HOME$/Projects/C++/UIUC/CS425/cs425-mp3/daemon/src/election/Candidate.h" timestamp="1447027561356">
+        <mark key="[" line="35" column="35" />
+        <mark key="]" line="35" column="35" />
+        <mark key="." line="35" column="35" />
+        <mark key="^" line="35" column="35" />
+      </file>
+      <file name="$USER_HOME$/Projects/C++/UIUC/CS425/cs425-mp4/worker/src/main.cpp" timestamp="1449285846540">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="25" />
+        <mark key="." line="0" column="25" />
+        <mark key="^" line="0" column="25" />
+      </file>
+      <file name="$USER_HOME$/Projects/C++/UIUC/CS425/cs425-mp4/user-code/SimpleTopology/EchoBolt.cpp" timestamp="1449451268151">
+        <mark key="[" line="17" column="1" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+        <mark key="^" line="18" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/C++/UIUC/CS425/cs425-mp4/daemon/src/filesys/DFile.cpp" timestamp="1449381363642">
+        <mark key="'" line="320" column="23" />
+        <mark key="[" line="475" column="31" />
+        <mark key="]" line="475" column="37" />
+        <mark key="^" line="475" column="37" />
+        <mark key="." line="475" column="37" />
+      </file>
+      <file name="$USER_HOME$/Projects/C++/UIUC/CS425/cs425-mp4/crane-core/tuple/Tuple.h" timestamp="1448833145461">
+        <mark key="[" line="13" column="27" />
+        <mark key="]" line="13" column="28" />
+        <mark key="^" line="13" column="28" />
+        <mark key="." line="13" column="28" />
+      </file>
+      <file name="$USER_HOME$/Projects/C++/UIUC/CS425/cs425-mp4/user-code/JoinTopology/JoinBolt.cpp" timestamp="1449488358602">
+        <mark key="'" line="44" column="1" />
+        <mark key="[" line="29" column="33" />
+        <mark key="]" line="29" column="33" />
+        <mark key="." line="29" column="33" />
+        <mark key="^" line="29" column="33" />
+      </file>
+      <file name="$USER_HOME$/Projects/C++/UIUC/CS526/mp1/ScalarReplAggregates-evchenk2.cpp" timestamp="1455554324812">
+        <mark key="'" line="117" column="4" />
+        <mark key="[" line="137" column="0" />
+        <mark key="]" line="137" column="0" />
+        <mark key="^" line="297" column="13" />
+        <mark key="." line="137" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/C++/UIUC/CS426/mp4/MP4-ADCE/CMakeLists.txt" timestamp="1448074638777">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="52" />
+        <mark key="^" line="0" column="26" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="/usr/include/llvm/IR/Value.h" timestamp="1454802964267">
+        <mark key="'" line="233" column="7" />
+        <mark key="[" line="666" column="0" />
+        <mark key="]" line="668" column="2" />
+      </file>
+      <file name="$USER_HOME$/Projects/C++/UIUC/CS426/mp4/MP4-ADCE/ADCE.cpp" timestamp="1456518183866">
+        <mark key="[" line="40" column="3" />
+        <mark key="]" line="40" column="2" />
+        <mark key="^" line="40" column="2" />
+        <mark key="." line="40" column="2" />
+      </file>
+      <file name="/usr/include/llvm/IR/InstrTypes.h" timestamp="1454797895508">
+        <mark key="'" line="673" column="33" />
+      </file>
+      <file name="$USER_HOME$/Projects/C++/UIUC/CS425/cs425-mp4/daemon/src/supervisor/Supervisor.cpp" timestamp="1449487785557">
+        <mark key="'" line="48" column="53" />
+        <mark key="[" line="74" column="28" />
+        <mark key="]" line="74" column="28" />
+        <mark key="." line="74" column="28" />
+        <mark key="^" line="86" column="61" />
+      </file>
+      <file name="$USER_HOME$/Projects/C++/llvm/lib/CodeGen/RegAllocBase.cpp" timestamp="1448136568451">
+        <mark key="[" line="88" column="0" />
+        <mark key="]" line="88" column="0" />
+        <mark key="." line="88" column="0" />
+        <mark key="^" line="88" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/C++/UIUC/CS425/cs425-mp3/daemon/src/message/DFileMessageParser.cpp" timestamp="1447015601465">
+        <mark key="[" line="39" column="40" />
+        <mark key="]" line="39" column="40" />
+        <mark key="^" line="39" column="40" />
+        <mark key="." line="39" column="40" />
+      </file>
+      <file name="$USER_HOME$/Projects/C++/UIUC/CS425/cs425-mp4/daemon/src/DMember.h" timestamp="1448667791664">
+        <mark key="[" line="0" column="1" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/C++/UIUC/CS425/cs425-mp4/protocol/crane.proto" timestamp="1449346187604">
+        <mark key="'" line="276" column="8" />
+        <mark key="[" line="258" column="0" />
+        <mark key="]" line="260" column="17" />
+        <mark key="." line="258" column="0" />
+        <mark key="^" line="234" column="16" />
+      </file>
+      <file name="$USER_HOME$/Projects/C++/UIUC/CS425/cs425-mp4/utils/SystemHelper.h" timestamp="1449479808784">
+        <mark key="[" line="85" column="13" />
+        <mark key="]" line="85" column="18" />
+        <mark key="^" line="85" column="18" />
+        <mark key="." line="85" column="18" />
+      </file>
+      <file name="$USER_HOME$/Projects/C++/UIUC/CS425/cs425-mp4/test-suite/src/TestBolt.h" timestamp="1449342656155">
+        <mark key="[" line="14" column="4" />
+        <mark key="]" line="14" column="13" />
+        <mark key="^" line="14" column="13" />
+        <mark key="." line="14" column="13" />
+      </file>
+      <file name="$USER_HOME$/Projects/C++/UIUC/CS526/mp1/CMakeLists.txt" timestamp="1454279940273">
+        <mark key="[" line="8" column="62" />
+        <mark key="]" line="8" column="62" />
+        <mark key="." line="8" column="62" />
+        <mark key="^" line="8" column="62" />
+      </file>
+      <file name="$USER_HOME$/Projects/C/UIUC/Container Security/cachetest/scripts/test_run.sh" timestamp="1446493264123">
+        <mark key="[" line="27" column="80" />
+        <mark key="]" line="27" column="80" />
+        <mark key="." line="27" column="80" />
+        <mark key="^" line="27" column="80" />
+      </file>
+      <file name="$USER_HOME$/Projects/C/UIUC/Container Security/cachetest/scripts/2_2core_shared_partition.sh" timestamp="1446438092507">
+        <mark key="[" line="8" column="5" />
+        <mark key="]" line="8" column="8" />
+        <mark key="." line="8" column="8" />
+        <mark key="^" line="8" column="8" />
+      </file>
+      <file name="$USER_HOME$/Projects/C++/UIUC/CS425/cs425-mp4/user-code/WordCountTopology/InputSpout.cpp" timestamp="1449467746856">
+        <mark key="'" line="40" column="0" />
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
+        <mark key="^" line="6" column="16" />
+      </file>
+      <file name="$USER_HOME$/Projects/C++/UIUC/CS425/cs425-mp4/daemon/src/worker/Worker.cpp" timestamp="1449488860994">
+        <mark key="'" line="538" column="25" />
+        <mark key="[" line="511" column="27" />
+        <mark key="]" line="511" column="33" />
+        <mark key="." line="511" column="33" />
+        <mark key="^" line="511" column="33" />
+      </file>
+      <file name="/usr/include/llvm/Analysis/LoopInfo.h" timestamp="1449515509311">
+        <mark key="[" line="199" column="21" />
+        <mark key="]" line="199" column="56" />
+      </file>
+      <file name="$USER_HOME$/Projects/C++/UIUC/CS425/cs425-mp4/worker/CMakeLists.txt" timestamp="1449285795616">
+        <mark key="'" line="28" column="0" />
+        <mark key="[" line="28" column="31" />
+        <mark key="]" line="28" column="64" />
+        <mark key="." line="28" column="64" />
+        <mark key="^" line="28" column="64" />
+      </file>
+      <file name="$USER_HOME$/Projects/C/UIUC/Container Security/cachetest/scripts/run_multiple.sh" timestamp="1446438259192">
+        <mark key="[" line="11" column="3" />
+        <mark key="]" line="11" column="4" />
+        <mark key="^" line="11" column="25" />
+        <mark key="." line="11" column="4" />
+      </file>
+      <file name="$USER_HOME$/Projects/C++/UIUC/CS425/cs425-mp4/test-suite/src/TestBolt.cpp" timestamp="1449342698620">
+        <mark key="[" line="24" column="12" />
+        <mark key="]" line="24" column="21" />
+        <mark key="." line="24" column="21" />
+        <mark key="^" line="24" column="21" />
+      </file>
+      <file name="$USER_HOME$/Projects/C++/UIUC/CS425/cs425-mp3/daemon/src/message/ElectionMessageHandler.h" timestamp="1446939810418">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="24" column="55" />
+        <mark key="." line="25" column="0" />
+        <mark key="^" line="24" column="53" />
+      </file>
+      <file name="$USER_HOME$/Projects/C++/UIUC/CS425/cs425-mp4/client/src/user-code/SimpleTopology/EchoBolt.cpp" timestamp="1449345353681">
+        <mark key="[" line="9" column="44" />
+        <mark key="]" line="9" column="28" />
+        <mark key="." line="9" column="28" />
+        <mark key="^" line="9" column="28" />
+      </file>
+      <file name="$USER_HOME$/Projects/C++/UIUC/CS425/cs425-mp4/user-code/WordCountTopology/WordCountBolt.h" timestamp="1449465074063">
+        <mark key="[" line="15" column="40" />
+        <mark key="]" line="15" column="41" />
+        <mark key="^" line="15" column="38" />
+        <mark key="." line="15" column="41" />
+      </file>
+      <file name="$USER_HOME$/Projects/C++/UIUC/CS425/cs425-mp4/worker/lib/CMakeLists.txt" timestamp="1449284398632">
+        <mark key="[" line="13" column="23" />
+        <mark key="]" line="13" column="25" />
+        <mark key="." line="13" column="25" />
+        <mark key="^" line="13" column="25" />
+      </file>
+      <file name="$USER_HOME$/Projects/C++/UIUC/CS425/cs425-mp4/daemon/src/message/CraneMessageHandler.cpp" timestamp="1449438621334">
+        <mark key="'" line="223" column="35" />
+        <mark key="[" line="106" column="28" />
+        <mark key="]" line="106" column="28" />
+        <mark key="." line="106" column="28" />
+        <mark key="^" line="13" column="15" />
+      </file>
+      <file name="$USER_HOME$/Projects/C++/UIUC/CS425/cs425-mp3/daemon/src/event/EventHandler.h" timestamp="1447000699376">
+        <mark key="[" line="15" column="63" />
+        <mark key="]" line="15" column="67" />
+        <mark key="^" line="15" column="67" />
+        <mark key="." line="15" column="67" />
+      </file>
+      <file name="/usr/include/bits/sched.h" timestamp="1456906563781">
+        <mark key="'" line="59" column="49" />
+      </file>
+      <file name="$USER_HOME$/Projects/C++/UIUC/CS425/cs425-mp3/daemon/src/event/NodeJoinEvent.h" timestamp="1446940616476">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+        <mark key="^" line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/C++/UIUC/CS426/mp4/MP4-LICM/CMakeLists.txt" timestamp="1449507412062">
+        <mark key="[" line="1" column="16" />
+        <mark key="]" line="1" column="19" />
+        <mark key="." line="1" column="19" />
+        <mark key="^" line="1" column="19" />
+      </file>
+      <file name="$USER_HOME$/Projects/C++/UIUC/CS425/cs425-mp4/daemon/src/message/CraneMessageParser.cpp" timestamp="1449453654246">
+        <mark key="[" line="234" column="35" />
+        <mark key="]" line="234" column="35" />
+        <mark key="^" line="234" column="35" />
+        <mark key="." line="234" column="35" />
+      </file>
+      <file name="$USER_HOME$/University/Compilers/MPs/mp3/src/cgen.h" timestamp="1447104044763">
+        <mark key="[" line="73" column="45" />
+        <mark key="]" line="73" column="58" />
+        <mark key="." line="73" column="58" />
+        <mark key="^" line="73" column="58" />
+      </file>
+      <file name="$USER_HOME$/Projects/C++/UIUC/CS425/cs425-mp4/daemon/src/nimbus/Nimbus.cpp" timestamp="1449490601768">
+        <mark key="[" line="569" column="63" />
+        <mark key="]" line="569" column="63" />
+        <mark key="^" line="569" column="59" />
+        <mark key="." line="569" column="63" />
+      </file>
+      <file name="$USER_HOME$/Projects/C++/UIUC/CS425/cs425-mp4/daemon/src/message/WorkerMessageHandler.h" timestamp="1449430865255">
+        <mark key="[" line="25" column="10" />
+        <mark key="]" line="25" column="10" />
+        <mark key="^" line="25" column="10" />
+        <mark key="." line="25" column="10" />
+      </file>
+      <file name="$USER_HOME$/Projects/C++/UIUC/CS425/cs425-mp4/user-code/SimpleTopology/RandomStringSpout.cpp" timestamp="1449440931594">
+        <mark key="[" line="36" column="52" />
+        <mark key="]" line="36" column="64" />
+        <mark key="." line="36" column="64" />
+        <mark key="^" line="36" column="64" />
+      </file>
+      <file name="$USER_HOME$/University/Compilers/MPs/mp3/test-rt/main.c" timestamp="1446885731291">
+        <mark key="[" line="24" column="14" />
+        <mark key="]" line="24" column="15" />
+        <mark key="." line="24" column="15" />
+        <mark key="^" line="24" column="15" />
+      </file>
+      <file name="$USER_HOME$/Projects/C/UIUC/Container Security/cachetest/experiment1.sh" timestamp="1445549369980">
+        <mark key="[" line="0" column="19" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/C++/UIUC/CS425/cs425-mp4/client/src/main.cpp" timestamp="1449516353792">
+        <mark key="[" line="96" column="59" />
+        <mark key="]" line="96" column="64" />
+        <mark key="^" line="96" column="64" />
+        <mark key="." line="96" column="64" />
+      </file>
+      <file name="$USER_HOME$/Projects/C++/UIUC/CS426/mp4/MP4-LICM/LICM.cpp" timestamp="1449528848764">
+        <mark key="'" line="6" column="18" />
+        <mark key="[" line="89" column="0" />
+        <mark key="]" line="89" column="0" />
+        <mark key="." line="89" column="0" />
+        <mark key="^" line="156" column="12" />
+      </file>
+      <file name="$USER_HOME$/Projects/C++/UIUC/CS425/cs425-mp4/daemon/src/main.cpp" timestamp="1449427299520">
+        <mark key="'" line="14" column="33" />
+        <mark key="[" line="14" column="34" />
+        <mark key="]" line="15" column="24" />
+        <mark key="^" line="15" column="24" />
+        <mark key="." line="15" column="24" />
+      </file>
+      <file name="$USER_HOME$/Projects/C/UIUC/Container Security/cachetest/dockerfiles/Dockerfile" timestamp="1445959703740">
+        <mark key="[" line="10" column="13" />
+        <mark key="]" line="10" column="14" />
+        <mark key="." line="10" column="14" />
+        <mark key="^" line="10" column="14" />
+      </file>
+      <file name="$USER_HOME$/Projects/C++/UIUC/CS425/cs425-mp3/protocol/CMakeLists.txt" timestamp="1446941547220">
+        <mark key="[" line="6" column="70" />
+        <mark key="]" line="6" column="83" />
+        <mark key="^" line="6" column="83" />
+        <mark key="." line="6" column="83" />
+      </file>
+      <file name="$USER_HOME$/Projects/C++/UIUC/CS425/cs425-mp4/utils/Types.h" timestamp="1449464027097">
+        <mark key="[" line="265" column="48" />
+        <mark key="]" line="265" column="49" />
+        <mark key="." line="265" column="49" />
+        <mark key="^" line="265" column="49" />
+      </file>
+      <file name="$USER_HOME$/Projects/C++/llvm/lib/CodeGen/RegAllocSpillEverything.cpp" timestamp="1448137791586">
+        <mark key="[" line="194" column="0" />
+        <mark key="]" line="194" column="0" />
+        <mark key="^" line="79" column="27" />
+        <mark key="." line="194" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/C++/UIUC/CS425/cs425-mp3/.gitignore" timestamp="1446947589852">
+        <mark key="[" line="1" column="7" />
+        <mark key="]" line="4" column="4" />
+        <mark key="^" line="4" column="4" />
+        <mark key="." line="4" column="4" />
+      </file>
+      <file name="$USER_HOME$/Projects/C++/UIUC/CS425/cs425-mp3/daemon/src/event/NodeFailEvent.h" timestamp="1447001237665">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="19" column="18" />
+        <mark key="^" line="21" column="0" />
+        <mark key="." line="20" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/C++/UIUC/CS425/cs425-mp3/daemon/src/event/LeaderElectedEvent.h" timestamp="1447001257678">
+        <mark key="[" line="7" column="12" />
+        <mark key="]" line="7" column="12" />
+        <mark key="." line="7" column="12" />
+        <mark key="^" line="7" column="17" />
+      </file>
+      <file name="$USER_HOME$/Projects/C++/UIUC/CS425/cs425-mp4/worker/main.cpp" timestamp="1449282487682">
+        <mark key="[" line="0" column="10" />
+        <mark key="]" line="0" column="10" />
+        <mark key="." line="0" column="10" />
+        <mark key="^" line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/C++/UIUC/CS425/cs425-mp4/worker/lib/Worker.cpp" timestamp="1449284047849">
+        <mark key="[" line="12" column="10" />
+        <mark key="]" line="12" column="10" />
+        <mark key="^" line="12" column="13" />
+        <mark key="." line="12" column="10" />
+      </file>
+      <file name="$USER_HOME$/Projects/C++/UIUC/CS425/cs425-mp4/user-code/WordCountTopology/PrinterBolt.cpp" timestamp="1449465017033">
+        <mark key="'" line="44" column="0" />
+        <mark key="[" line="21" column="41" />
+        <mark key="]" line="21" column="42" />
+        <mark key="." line="21" column="42" />
+        <mark key="^" line="21" column="39" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1455414476982">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/C++/UIUC/CS425/cs425-mp4/user-code/SimpleTopology/EchoBolt.h" timestamp="1449440879307">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="101" />
+        <mark key="." line="14" column="23" />
+        <mark key="^" line="14" column="23" />
+      </file>
+      <file name="$USER_HOME$/Projects/C/UIUC/Container Security/cachetest/scripts/2_core_ncat.sh" timestamp="1445964655257">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="6" column="12" />
+        <mark key="." line="4" column="8" />
+        <mark key="^" line="4" column="8" />
+      </file>
+      <file name="$USER_HOME$/Projects/C++/testproj/main.cpp" timestamp="1457103814800">
+        <mark key="[" line="4" column="31" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/C++/UIUC/CS425/cs425-mp4/test-suite/src/main.cpp" timestamp="1449342636738">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="80" />
+        <mark key="^" line="6" column="20" />
+        <mark key="." line="6" column="20" />
+      </file>
+      <file name="$USER_HOME$/Projects/C++/UIUC/CS426/mp4/CMakeLists.txt" timestamp="1449507424051">
+        <mark key="[" line="8" column="21" />
+        <mark key="]" line="8" column="24" />
+        <mark key="^" line="8" column="24" />
+        <mark key="." line="8" column="24" />
+      </file>
+      <file name="$USER_HOME$/Projects/C++/UIUC/CS425/cs425-mp4/user-code/JoinTopology/JoinBolt.h" timestamp="1449486098646">
+        <mark key="'" line="16" column="1" />
+        <mark key="[" line="16" column="29" />
+        <mark key="]" line="16" column="29" />
+        <mark key="." line="16" column="29" />
+        <mark key="^" line="16" column="29" />
+      </file>
+      <file name="/usr/include/llvm/IR/Instructions.h" timestamp="1454802543906">
+        <mark key="'" line="337" column="43" />
+      </file>
+      <file name="$USER_HOME$/Projects/C/UIUC/Container Security/cachetest/scripts/2_ncore_ncat.sh" timestamp="1445964676415">
+        <mark key="[" line="9" column="48" />
+        <mark key="]" line="9" column="59" />
+        <mark key="." line="9" column="59" />
+        <mark key="^" line="9" column="59" />
+      </file>
+      <file name="$USER_HOME$/Projects/C/UIUC/Container Security/cachetest/CMakeLists.txt" timestamp="1446570074876">
+        <mark key="[" line="3" column="54" />
+        <mark key="]" line="3" column="60" />
+        <mark key="." line="3" column="60" />
+        <mark key="^" line="3" column="60" />
+      </file>
+      <file name="$USER_HOME$/Projects/C++/UIUC/CS425/cs425-mp4/crane-core/src/tuple/Tuple.h" timestamp="1449463107576">
+        <mark key="[" line="28" column="11" />
+        <mark key="]" line="28" column="13" />
+        <mark key="." line="28" column="13" />
+        <mark key="^" line="28" column="13" />
+      </file>
+      <file name="$USER_HOME$/Projects/C/scratchpad/main.c" timestamp="1457024670824">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/C++/UIUC/CS425/cs425-mp3/protocol/election.proto" timestamp="1446939714037">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="30" column="29" />
+        <mark key="." line="72" column="38" />
+        <mark key="^" line="72" column="38" />
+      </file>
+      <file name="$USER_HOME$/Projects/C++/UIUC/CS425/cs425-mp4/client/src/user-code/SimpleTopology/RandomStringSpout.h" timestamp="1449344761289">
+        <mark key="[" line="10" column="1" />
+        <mark key="]" line="11" column="6" />
+        <mark key="^" line="11" column="6" />
+        <mark key="." line="11" column="6" />
+      </file>
+      <file name="$USER_HOME$/Projects/C++/UIUC/CS426/mp4/README" timestamp="1449522434028">
+        <mark key="[" line="15" column="18" />
+        <mark key="]" line="15" column="18" />
+        <mark key="." line="15" column="18" />
+        <mark key="^" line="15" column="18" />
+      </file>
+      <file name="/fragment.mm" timestamp="1455414476965">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="16" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/C++/UIUC/CS425/cs425-mp4/daemon/CMakeLists.txt" timestamp="1449461765614">
+        <mark key="[" line="8" column="51" />
+        <mark key="]" line="8" column="59" />
+        <mark key="." line="8" column="59" />
+        <mark key="^" line="8" column="59" />
+      </file>
+      <file name="$USER_HOME$/Projects/C++/llvm/lib/Transforms/MP4/Makefile" timestamp="1448069635064">
+        <mark key="[" line="3" column="7" />
+        <mark key="]" line="3" column="13" />
+        <mark key="^" line="3" column="13" />
+        <mark key="." line="3" column="13" />
+      </file>
+      <file name="$USER_HOME$/Projects/C++/UIUC/CS425/cs425-mp3/utils/SystemHelper.h" timestamp="1446943206736">
+        <mark key="[" line="93" column="5" />
+        <mark key="]" line="94" column="3" />
+        <mark key="." line="94" column="3" />
+        <mark key="^" line="94" column="3" />
+      </file>
+      <file name="$USER_HOME$/Projects/C++/UIUC/CS425/cs425-mp4/daemon/src/message/CraneMessageHandler.h" timestamp="1449487757191">
+        <mark key="'" line="30" column="4" />
+        <mark key="[" line="32" column="76" />
+        <mark key="]" line="32" column="76" />
+        <mark key="." line="32" column="76" />
+        <mark key="^" line="32" column="76" />
+      </file>
+      <file name="$USER_HOME$/University/Compilers/MPs/mp3/src/operand.cc" timestamp="1446674144464">
+        <mark key="[" line="199" column="20" />
+        <mark key="]" line="199" column="20" />
+        <mark key="^" line="199" column="19" />
+        <mark key="." line="199" column="20" />
+      </file>
+      <file name="$USER_HOME$/Projects/C++/UIUC/CS425/cs425-mp4/daemon/src/worker/Worker.h" timestamp="1449464317726">
+        <mark key="[" line="42" column="27" />
+        <mark key="]" line="42" column="27" />
+        <mark key="^" line="43" column="50" />
+        <mark key="." line="42" column="27" />
+      </file>
+      <file name="$USER_HOME$/Projects/C++/UIUC/CS425/cs425-mp4/user-code/WordCountTopology/WordCountBolt.cpp" timestamp="1449472582642">
+        <mark key="[" line="28" column="70" />
+        <mark key="]" line="28" column="77" />
+        <mark key="." line="28" column="77" />
+        <mark key="^" line="28" column="77" />
+      </file>
+      <file name="/usr/include/llvm/IR/Type.h" timestamp="1454281787072">
+        <mark key="'" line="180" column="6" />
+      </file>
+      <file name="$USER_HOME$/Projects/C++/UIUC/CS425/cs425-mp4/user-code/WordCountTopology/SplitSentenceBolt.cpp" timestamp="1449491095233">
+        <mark key="'" line="32" column="8" />
+        <mark key="[" line="31" column="23" />
+        <mark key="]" line="31" column="34" />
+        <mark key="." line="31" column="34" />
+        <mark key="^" line="31" column="34" />
+      </file>
+      <file name="$USER_HOME$/Projects/C++/UIUC/CS425/cs425-mp4/worker/src/WorkerProcess.h" timestamp="1449286013136">
+        <mark key="[" line="11" column="1" />
+        <mark key="]" line="12" column="6" />
+        <mark key="." line="12" column="6" />
+        <mark key="^" line="12" column="6" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="407" column="59" filename="$USER_HOME$/Projects/C++/UIUC/CS425/cs425-mp4/daemon/src/worker/Worker.cpp" />
+      <jump line="538" column="25" filename="$USER_HOME$/Projects/C++/UIUC/CS425/cs425-mp4/daemon/src/worker/Worker.cpp" />
+      <jump line="15" column="1" filename="$USER_HOME$/Projects/C++/UIUC/CS425/cs425-mp4/user-code/JoinTopology/JoinBolt.h" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/C++/UIUC/CS425/cs425-mp4/user-code/JoinTopology/JoinBolt.cpp" />
+      <jump line="51" column="1" filename="$USER_HOME$/Projects/C++/UIUC/CS425/cs425-mp4/user-code/JoinTopology/JoinBolt.cpp" />
+      <jump line="9" column="7" filename="$USER_HOME$/Projects/C++/UIUC/CS425/cs425-mp4/user-code/FilterTopology/FilterBolt.h" />
+      <jump line="20" column="0" filename="$USER_HOME$/Projects/C++/UIUC/CS425/cs425-mp4/user-code/FilterTopology/FilterBolt.h" />
+      <jump line="10" column="0" filename="$USER_HOME$/Projects/C++/UIUC/CS425/cs425-mp4/user-code/FilterTopology/FilterBolt.cpp" />
+      <jump line="46" column="0" filename="$USER_HOME$/Projects/C++/UIUC/CS425/cs425-mp4/user-code/FilterTopology/FilterBolt.cpp" />
+      <jump line="6" column="18" filename="$USER_HOME$/Projects/C++/UIUC/CS426/mp4/MP4-LICM/LICM.cpp" />
+      <jump line="231" column="7" filename="/usr/include/llvm/IR/Instructions.h" />
+      <jump line="61" column="27" filename="$USER_HOME$/Projects/C++/UIUC/CS526/mp1/ScalarReplAggregates-evchenk2.cpp" />
+      <jump line="62" column="0" filename="$USER_HOME$/Projects/C++/UIUC/CS526/mp1/ScalarReplAggregates-evchenk2.cpp" />
+      <jump line="86" column="20" filename="$USER_HOME$/Projects/C++/UIUC/CS526/mp1/ScalarReplAggregates-evchenk2.cpp" />
+      <jump line="32" column="24" filename="$USER_HOME$/Projects/C++/UIUC/CS526/mp1/ScalarReplAggregates-evchenk2.cpp" />
+      <jump line="89" column="0" filename="$USER_HOME$/Projects/C++/UIUC/CS526/mp1/ScalarReplAggregates-evchenk2.cpp" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/C++/UIUC/CS526/mp1/ScalarReplAggregates-evchenk2.cpp" />
+      <jump line="0" column="0" filename="/usr/include/llvm/IR/Type.h" />
+      <jump line="150" column="6" filename="/usr/include/llvm/IR/Type.h" />
+      <jump line="151" column="7" filename="/usr/include/llvm/IR/Type.h" />
+      <jump line="180" column="6" filename="/usr/include/llvm/IR/Type.h" />
+      <jump line="68" column="74" filename="/usr/include/llvm/IR/Instruction.h" />
+      <jump line="242" column="6" filename="/usr/include/llvm/IR/Instruction.h" />
+      <jump line="247" column="9" filename="/usr/include/llvm/IR/Instruction.h" />
+      <jump line="252" column="9" filename="/usr/include/llvm/IR/Instruction.h" />
+      <jump line="257" column="36" filename="/usr/include/llvm/IR/Instruction.h" />
+      <jump line="262" column="36" filename="/usr/include/llvm/IR/Instruction.h" />
+      <jump line="282" column="6" filename="/usr/include/llvm/IR/Instruction.h" />
+      <jump line="312" column="20" filename="/usr/include/llvm/IR/Instruction.h" />
+      <jump line="314" column="46" filename="/usr/include/llvm/IR/Instruction.h" />
+      <jump line="321" column="20" filename="/usr/include/llvm/IR/Instruction.h" />
+      <jump line="323" column="41" filename="/usr/include/llvm/IR/Instruction.h" />
+      <jump line="331" column="19" filename="/usr/include/llvm/IR/Instruction.h" />
+      <jump line="333" column="30" filename="/usr/include/llvm/IR/Instruction.h" />
+      <jump line="340" column="18" filename="/usr/include/llvm/IR/Instruction.h" />
+      <jump line="342" column="41" filename="/usr/include/llvm/IR/Instruction.h" />
+      <jump line="345" column="23" filename="/usr/include/llvm/IR/Instruction.h" />
+      <jump line="51" column="7" filename="/usr/include/llvm/IR/Instruction.h" />
+      <jump line="237" column="6" filename="/usr/include/llvm/IR/Instruction.h" />
+      <jump line="232" column="6" filename="/usr/include/llvm/IR/Instruction.h" />
+      <jump line="24" column="29" filename="$USER_HOME$/Projects/C++/UIUC/CS526/mp1/ScalarReplAggregates-evchenk2.cpp" />
+      <jump line="161" column="55" filename="$USER_HOME$/Projects/C++/UIUC/CS526/mp1/ScalarReplAggregates-evchenk2.cpp" />
+      <jump line="111" column="44" filename="/usr/include/llvm/IR/InstrTypes.h" />
+      <jump line="678" column="6" filename="/usr/include/llvm/IR/InstrTypes.h" />
+      <jump line="680" column="2" filename="/usr/include/llvm/IR/InstrTypes.h" />
+      <jump line="682" column="2" filename="/usr/include/llvm/IR/InstrTypes.h" />
+      <jump line="686" column="2" filename="/usr/include/llvm/IR/InstrTypes.h" />
+      <jump line="692" column="57" filename="/usr/include/llvm/IR/InstrTypes.h" />
+      <jump line="740" column="22" filename="/usr/include/llvm/IR/InstrTypes.h" />
+      <jump line="741" column="9" filename="/usr/include/llvm/IR/InstrTypes.h" />
+      <jump line="749" column="22" filename="/usr/include/llvm/IR/InstrTypes.h" />
+      <jump line="750" column="9" filename="/usr/include/llvm/IR/InstrTypes.h" />
+      <jump line="795" column="22" filename="/usr/include/llvm/IR/InstrTypes.h" />
+      <jump line="816" column="31" filename="/usr/include/llvm/IR/InstrTypes.h" />
+      <jump line="893" column="33" filename="/usr/include/llvm/IR/InstrTypes.h" />
+      <jump line="895" column="61" filename="/usr/include/llvm/IR/InstrTypes.h" />
+      <jump line="898" column="37" filename="/usr/include/llvm/IR/InstrTypes.h" />
+      <jump line="673" column="33" filename="/usr/include/llvm/IR/InstrTypes.h" />
+      <jump line="1081" column="62" filename="/usr/include/llvm/IR/Instructions.h" />
+      <jump line="1085" column="34" filename="/usr/include/llvm/IR/Instructions.h" />
+      <jump line="1092" column="23" filename="/usr/include/llvm/IR/Instructions.h" />
+      <jump line="1094" column="29" filename="/usr/include/llvm/IR/Instructions.h" />
+      <jump line="1095" column="29" filename="/usr/include/llvm/IR/Instructions.h" />
+      <jump line="1108" column="33" filename="/usr/include/llvm/IR/Instructions.h" />
+      <jump line="1109" column="3" filename="/usr/include/llvm/IR/Instructions.h" />
+      <jump line="1113" column="3" filename="/usr/include/llvm/IR/Instructions.h" />
+      <jump line="1119" column="6" filename="/usr/include/llvm/IR/Instructions.h" />
+      <jump line="315" column="6" filename="/usr/include/llvm/IR/Instructions.h" />
+      <jump line="330" column="43" filename="/usr/include/llvm/IR/Instructions.h" />
+      <jump line="332" column="43" filename="/usr/include/llvm/IR/Instructions.h" />
+      <jump line="333" column="43" filename="/usr/include/llvm/IR/Instructions.h" />
+      <jump line="335" column="43" filename="/usr/include/llvm/IR/Instructions.h" />
+      <jump line="337" column="43" filename="/usr/include/llvm/IR/Instructions.h" />
+      <jump line="68" column="6" filename="/usr/include/llvm/IR/Value.h" />
+      <jump line="233" column="7" filename="/usr/include/llvm/IR/Value.h" />
+      <jump line="217" column="16" filename="$USER_HOME$/Projects/C++/UIUC/CS526/mp1/ScalarReplAggregates-evchenk2.cpp" />
+      <jump line="84" column="4" filename="$USER_HOME$/Projects/C++/UIUC/CS526/mp1/ScalarReplAggregates-evchenk2.cpp" />
+      <jump line="248" column="20" filename="$USER_HOME$/Projects/C++/UIUC/CS526/mp1/ScalarReplAggregates-evchenk2.cpp" />
+      <jump line="34" column="23" filename="$USER_HOME$/Projects/C++/UIUC/CS526/mp1/ScalarReplAggregates-evchenk2.cpp" />
+      <jump line="197" column="17" filename="$USER_HOME$/Projects/C++/UIUC/CS526/mp1/ScalarReplAggregates-evchenk2.cpp" />
+      <jump line="194" column="0" filename="$USER_HOME$/Projects/C++/UIUC/CS526/mp1/ScalarReplAggregates-evchenk2.cpp" />
+      <jump line="331" column="34" filename="$USER_HOME$/Projects/C++/UIUC/CS526/mp1/ScalarReplAggregates-evchenk2.cpp" />
+      <jump line="306" column="0" filename="$USER_HOME$/Projects/C++/UIUC/CS526/mp1/ScalarReplAggregates-evchenk2.cpp" />
+      <jump line="66" column="9" filename="$USER_HOME$/Projects/C++/UIUC/CS526/mp1/ScalarReplAggregates-evchenk2.cpp" />
+      <jump line="186" column="18" filename="$USER_HOME$/Projects/C++/UIUC/CS526/mp1/ScalarReplAggregates-evchenk2.cpp" />
+      <jump line="98" column="26" filename="$USER_HOME$/Projects/C++/UIUC/CS526/mp1/ScalarReplAggregates-evchenk2.cpp" />
+      <jump line="328" column="0" filename="$USER_HOME$/Projects/C++/UIUC/CS526/mp1/ScalarReplAggregates-evchenk2.cpp" />
+      <jump line="164" column="0" filename="$USER_HOME$/Projects/C++/UIUC/CS526/mp1/ScalarReplAggregates-evchenk2.cpp" />
+      <jump line="139" column="23" filename="$USER_HOME$/Projects/C++/UIUC/CS526/mp1/ScalarReplAggregates-evchenk2.cpp" />
+      <jump line="225" column="20" filename="$USER_HOME$/Projects/C++/UIUC/CS526/mp1/ScalarReplAggregates-evchenk2.cpp" />
+      <jump line="39" column="10" filename="$USER_HOME$/Projects/C++/UIUC/CS526/mp1/ScalarReplAggregates-evchenk2.cpp" />
+      <jump line="118" column="4" filename="$USER_HOME$/Projects/C++/UIUC/CS526/mp1/ScalarReplAggregates-evchenk2.cpp" />
+      <jump line="40" column="10" filename="$USER_HOME$/Projects/C++/UIUC/CS526/mp1/ScalarReplAggregates-evchenk2.cpp" />
+      <jump line="119" column="4" filename="$USER_HOME$/Projects/C++/UIUC/CS526/mp1/ScalarReplAggregates-evchenk2.cpp" />
+      <jump line="3" column="0" filename="$USER_HOME$/Projects/C/scratchpad/CMakeLists.txt" />
+      <jump line="0" column="0" filename="/usr/include/bits/sched.h" />
+      <jump line="80" column="11" filename="/usr/include/bits/sched.h" />
+      <jump line="48" column="35" filename="/usr/include/bits/sched.h" />
+      <jump line="57" column="45" filename="/usr/include/bits/sched.h" />
+      <jump line="59" column="49" filename="/usr/include/bits/sched.h" />
+    </jumps>
+    <registers>
+      <register name="a" type="4">
+        <keys>
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+        </keys>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="k" type="4">
+        <keys>
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+        </keys>
+      </register>
+      <register name="-" type="4">
+        <text encoding="base64">Jg==</text>
+      </register>
+      <register name="/" type="4">
+        <text>clone</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHByaW50ZigiSW5zaWRlIGNoaWxkLCBQSUQgPSAlbGRcbiIsIChsb25nKWdldHBpZCgpKTsK</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">Jg==</text>
+      </register>
+      <register name="3" type="4">
+        <text>child</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Ly8jaW5jbHVkZSA8c2NoZWQuaD4K</text>
+      </register>
+      <register name="5" type="4">
+        <text>/</text>
+      </register>
+      <register name="6" type="4">
+        <text>s</text>
+      </register>
+      <register name="7" type="4">
+        <text>t</text>
+      </register>
+      <register name="8" type="4">
+        <text>i</text>
+      </register>
+      <register name="9" type="4">
+        <text>b</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+    </registers>
+    <search>
+      <last-search>clone</last-search>
+      <last-offset />
+      <last-pattern>clone</last-pattern>
+      <last-replace>C</last-replace>
+      <last-substitute>CXX</last-substitute>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>operate</entry>
+        <entry>operator</entry>
+        <entry>gepInst</entry>
+        <entry>Cmp</entry>
+        <entry encoding="base64">XDxDbXBJbnN0XD4=</entry>
+        <entry>CmpInst</entry>
+        <entry>Vola</entry>
+        <entry>setName</entry>
+        <entry encoding="base64">Y29uc3RcIA==</entry>
+        <entry>list</entry>
+        <entry>isAllocaP</entry>
+        <entry>isAlloca</entry>
+        <entry encoding="base64">XDxsb2FkVXNlcnNcPg==</entry>
+        <entry>errs</entry>
+        <entry>Annotate</entry>
+        <entry>Num</entry>
+        <entry encoding="base64">XDxOdW1SZXBsYWNlZFw+</entry>
+        <entry encoding="base64">XDxOdW1Qcm9tb3RlZFw+</entry>
+        <entry>CXX</entry>
+        <entry>clone</entry>
+      </history-search>
+      <history-cmd>
+        <entry encoding="base64">JzwsJz5zL1N0YXJ0L0tpbGwvZw==</entry>
+        <entry encoding="base64">JzwsJz5zL2tpbGwvc3RhcnQvZw==</entry>
+        <entry encoding="base64">JzwsJz5zL21lc3NhZ2UvcmVwbHlNZXNzYWdlL2c=</entry>
+        <entry encoding="base64">JzwsJz5zL1JlcXVlc3QvUmVwbHkvZw==</entry>
+        <entry encoding="base64">JzwsJz5zL3JlcXVlc3QvcmVwbHkvZw==</entry>
+        <entry encoding="base64">JzwsJz5zLyhFUlJPUi8oREVCVUcvZw==</entry>
+        <entry encoding="base64">JzwsJz5zL1JhbmRvbVN0cmluZy9JbnB1dC9n</entry>
+        <entry encoding="base64">JzwsJz5zL0VjaG8vV29yZENvdW50L2c=</entry>
+        <entry encoding="base64">JzwsJz5zL0VjaG8vUHJpbnRlci9n</entry>
+        <entry encoding="base64">JzwsJz5zL291dFN0cmVhbS0+YmFjaygpL25ld1R1cGxlL2c=</entry>
+        <entry encoding="base64">JzwsJz5zL0VjaG8vSm9pbi9n</entry>
+        <entry encoding="base64">JzwsJz5zL0pvaW4vRmlsdGVyL2c=</entry>
+        <entry>s/vadve/evchenk2/g</entry>
+        <entry encoding="base64">cy88bmV0aWQ+L2V2Y2hlbmsyL2c=</entry>
+        <entry encoding="base64">JzwsJz5zL2dlcEluc3QvR0kvZw==</entry>
+        <entry encoding="base64">JzwsJz5zL2NvbnN0XCAvL2c=</entry>
+        <entry>s/CXX/C/g</entry>
+        <entry>q!</entry>
+        <entry>qa</entry>
+        <entry>w</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="ide">
+        <text>pressed F2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed U</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F10</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>pressed F3</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>pressed F5</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>pressed F9</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>pressed F8</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed J</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>pressed F10</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed M</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
